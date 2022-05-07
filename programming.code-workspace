@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "..\\test.c"
+        },
+        {
+            "path": "..\\ayush"
+        },
+        {
+            "name": "test",
+            "path": "..\\..\\test"
+        }
+    ]
+}
